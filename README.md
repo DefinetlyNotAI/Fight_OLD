@@ -5,3 +5,7 @@ Play the versions here:
 - [EBF v0.0.2-alpha](https://definetlynotai.github.io/Fight_OLD/ebf-v0.0.2/)
 - [EBF v0.0.3-alpha](https://definetlynotai.github.io/Fight_OLD/ebf-v0.0.3/)
 - [EBF v0.1.0-alpha](https://definetlynotai.github.io/Fight_OLD/ebf-v0.1.0/)
+
+> [!NOTE]
+> This is by no means complete, playable or even proper... In fact the buttons do absolutly nothing
+> 
